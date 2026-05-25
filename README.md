@@ -1,8 +1,8 @@
-### Hi, I'm Murni Marcus
+### Vantage Digital Labs
 
-Founder & Lead Engineer at [Vantage Digital Labs](https://vantage-digital.online). Building AI tooling for game teams — NPC dialogue workflows, procedural generation, and runtime inference.
+Building AI tooling for game teams at [vantage-digital.online](https://vantage-digital.online). NPC dialogue workflows, procedural generation, and runtime inference.
 
-**What I work on:**
+**What we build:**
 - NPC dialogue systems powered by LLMs
 - Real-time inference pipelines for game engines
 - SDKs for Unity, Unreal Engine, and Node.js
